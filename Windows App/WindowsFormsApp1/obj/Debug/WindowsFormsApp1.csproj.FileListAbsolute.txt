@@ -1,0 +1,11 @@
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddKey.resources
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Arduino2FA.exe.config
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Arduino2FA.exe
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Arduino2FA.pdb
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Arduino2FA.exe
+C:\Users\denni\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Arduino2FA.pdb
